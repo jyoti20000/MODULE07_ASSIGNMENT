@@ -1,0 +1,5 @@
+Ques: How much space does following data types take ?
+
+1- "int" take 4 bytes.
+2- "bool" take 1 byte.
+3- "float" take 4 bytes.

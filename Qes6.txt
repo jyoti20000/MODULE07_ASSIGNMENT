@@ -1,0 +1,11 @@
+Ques: How many of these can be a variable name?
+
+1. 01PWskills - Incorrect variable name.
+
+2.  _FLOAT - Correct variable name.
+
+3.  int - Incorrect variable name.
+
+4.  FLOAT - Correct variable name.
+
+5.  You will succeed - Incorrect variable name.
